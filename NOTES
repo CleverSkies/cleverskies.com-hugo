@@ -1,0 +1,4 @@
+* Removing subfooter
+/data/git-cs/cleverskies.com-hugo/themes/hugo-hero-theme/layouts/_default/baseof.html
+Comment out line
+{{ partial "sub-footer.html" . }}
