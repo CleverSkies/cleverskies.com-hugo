@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Clever Skies"
-themesDir = "themes"
-theme = "hugo-hero-theme"
+#themesDir = "themes"
+#theme = "hugo-hero-theme"
 
 [module]
   [module.hugoVersion]
