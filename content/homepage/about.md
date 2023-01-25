@@ -6,6 +6,6 @@ background: ''
 buttonLink: ''
 ---
 
-With expertice in machine learning, artificial intelligence, modeling, simulation, and optimization we are at the forefront of technology innovation for unmanned air transportation systems.  
+With expertice in machine learning, artificial intelligence, modeling, simulation, and optimization we are at the forefront of technology innovation for manned and unmanned air transportation systems.  
 
 
